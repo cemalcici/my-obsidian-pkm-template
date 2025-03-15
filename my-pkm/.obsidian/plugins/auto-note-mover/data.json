@@ -1,0 +1,64 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "Vault/01-Projects",
+      "tag": "#Project",
+      "pattern": ""
+    },
+    {
+      "folder": "Vault/02-Areas",
+      "tag": "#topic",
+      "pattern": ""
+    },
+    {
+      "folder": "Vault/03-Resources/Books",
+      "tag": "#source/book",
+      "pattern": ""
+    },
+    {
+      "folder": "Vault/03-Resources/Courses",
+      "tag": "#source/course",
+      "pattern": ""
+    },
+    {
+      "folder": "Vault/03-Resources/Videos",
+      "tag": "#source/video",
+      "pattern": ""
+    },
+    {
+      "folder": "Vault/04-Atoms",
+      "tag": "#note/atom",
+      "pattern": ""
+    },
+    {
+      "folder": "Vault/05-Molecules",
+      "tag": "#note/molecule",
+      "pattern": ""
+    },
+    {
+      "folder": "Vault/06-Alloys",
+      "tag": "#note/alloy",
+      "pattern": ""
+    },
+    {
+      "folder": "Vault/99-Archives",
+      "tag": "#archive",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": "Vault/_templates"
+    },
+    {
+      "folder": "Vault/_attachments"
+    },
+    {
+      "folder": "Vault/_web"
+    }
+  ]
+}

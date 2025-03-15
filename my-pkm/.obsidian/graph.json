@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:Template",
+      "color": {
+        "a": 1,
+        "rgb": 7544285
+      }
+    },
+    {
+      "query": "tag:#Project  ",
+      "color": {
+        "a": 1,
+        "rgb": 15350073
+      }
+    },
+    {
+      "query": "tag:#note  ",
+      "color": {
+        "a": 1,
+        "rgb": 11591252
+      }
+    },
+    {
+      "query": "tag:#source  ",
+      "color": {
+        "a": 1,
+        "rgb": 15257915
+      }
+    },
+    {
+      "query": "tag:#topic  ",
+      "color": {
+        "a": 1,
+        "rgb": 2001628
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1,
+  "close": true
+}

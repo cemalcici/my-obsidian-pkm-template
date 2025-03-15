@@ -1,0 +1,7 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "Vault/_attachments"
+}
